@@ -1,5 +1,7 @@
 # CMSproject
+View it live on http://mycontentmanager.infinityfreeapp.com/
 
+# Screnshots
 ![](img/1.png)
 ![](img/2.png)
 ![](img/3.png)
